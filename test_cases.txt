@@ -1,0 +1,15 @@
+*Clean Up Comments
+
+*Test Cases:
+-higher associativity level
+-test the LRU
+-test with writes
+-all of his test cases
+-set-size not a power of 2 (okay)
+-size 1, 2, 4, 8  and properly aligned, if not ignore
+-write-back and write allocate
+-number of memory references can only be 0, 1 or 2!!!
+-index offset decimal_point
+- mem_accesses, hits, misses are accurate
+
+*Walk through each function checking for errors in logic. 
