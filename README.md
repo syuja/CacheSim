@@ -9,4 +9,4 @@ Compile with:
   
   
 
-Please read [here] for a full description. 
+Please read [here](Proj_Ins.pdf) for a full description. 
